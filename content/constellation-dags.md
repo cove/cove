@@ -31,4 +31,4 @@ Lastly the colors are important, with a dark blue sky contrasted with bold yello
 
 ![](images/constellation-dags-4.png)
 
-And our final look.
+And our final look, from which we can then plan out a roadmap    with an overall awareness of our direction and options. 
