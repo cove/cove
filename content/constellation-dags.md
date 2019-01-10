@@ -29,3 +29,6 @@ Next as we go up in the sky, we build on the base to from increasingly vague, bu
 
 Lastly the colors are important, with a dark blue sky contrasted with bold yellow pin points of light we show that this is a night sky without hex codes or tricky color picking, thanks to Henri Matisse’s sense of color in Icarus.
 
+![](images/constellation-dags-4.png)
+
+And our final look.
