@@ -9,13 +9,11 @@ weight: 10
 
 A constellation DAG can be thought of as way to share the thought process that everyone already reasons through before making roadmaps or plans in general.
 
-DAG refers to a *directed acyclic graph*, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point on the graph you can follow an arrow from it to the next point and not have to keep track of the points you’ve already visited to avoid going in circles. 
+DAG refers to a *directed acyclic graph*, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point you can't choose the wrong path and end up back where you came from.
 
 ![](images/constellation-dags-1.png)
 
-The constellation is reminiscent of laying out under the expanse of stars on a clear night and letting one's mind wander a bit, but not too much.
-
-A slight haphazardnes in the placement of the points further evokes a sense that we’re looking at a constellation that is imprecise, points that are naturally occurring, but we see a form when the dots are connected.
+The constellation is reminiscent of laying out under the expanse of stars on a clear night and letting one's mind wander a bit, but not too much. Along with a slight haphazardness in the placement of the points further evokes a sense that we’re looking something that's imprecise, but still in the direction we want to go.
 
 ![](images/constellation-dags-2.png)
 
