@@ -25,7 +25,7 @@ Next as we go up in the sky, we build on the base adding point by answering the 
 
 ![](images/icarus-1944.jpg)
 
-Lastly the colors are important, with a dark blue sky contrasted with bold yellow pin points of light we show that this is a night sky free of distractions using Henri Matisse’s Icarus as inspiration. Red we use to focus the readers attention on the points we are discussing. 
+Lastly the colors are important, with a dark blue sky contrasted with bold yellow pin points of light we show that this is a night sky free of distractions using Henri Matisse’s Icarus as inspiration. And with red we use to focus the readers attention on the points we are discussing. 
 
 ![](images/constellation-dags-4.png)
 
