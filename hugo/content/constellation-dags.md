@@ -23,7 +23,7 @@ At the base of the graph we start with what is near and more known ideas, a feat
 
 ![](images/constellation-dags-3.png)
 
-Next as we go up in the sky, we build on the base adding nodes by answering the question *What do we need next?*
+Next as we go up in the sky, we build on the base adding nodes by answering the question *What do we need next?* With allowing for more vagueness as we go up in the sky.
 
 ![](images/icarus-1944.jpg)
 
