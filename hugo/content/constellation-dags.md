@@ -9,7 +9,7 @@ weight: 10
 
 A constellation DAG can be thought of as way to share the thought process that everyone already reasons through before making roadmaps or plans in general.
 
-DAG refers to a *directed acyclic graph*, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point you can't choose the wrong path and end up back where you came from.
+DAG refers to a *directed acyclic graph*, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point you don't need to think about more than the next step.
 
 ![](images/constellation-dags-1.png)
 
