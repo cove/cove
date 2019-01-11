@@ -21,11 +21,11 @@ At the base of the graph we start with what is near and more known ideas, a feat
 
 ![](images/constellation-dags-3.png)
 
-Next as we go up in the sky, we build on the base adding nodes by answering the question *What do we need next?* With allowing for more vagueness as we go up in the sky.
+Next as we go up in the sky, we build on the base adding point by answering the question *What do we need next?* With allowing for more vagueness as we go up in the sky.
 
 ![](images/icarus-1944.jpg)
 
-Lastly the colors are important, with a dark blue sky contrasted with bold yellow pin points of light we show that this is a night sky without hex codes, thanks to Henri Matisse’s sense of color in Icarus. The color red we use to focus the readers attention on the points we are discussing. 
+Lastly the colors are important, with a dark blue sky contrasted with bold yellow pin points of light we show that this is a night sky free of distractions, and use Henri Matisse’s sense of color in Icarus. Red we use to focus the readers attention on the points we are discussing. 
 
 ![](images/constellation-dags-4.png)
 
