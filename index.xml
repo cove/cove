@@ -21,5 +21,14 @@
 DAG refers to a directed acyclic graph, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point you don&amp;rsquo;t need to think about more than the next step.</description>
     </item>
     
+    <item>
+      <title>Software Release Facts</title>
+      <link>https://cove.github.io/software-release-facts/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cove.github.io/software-release-facts/</guid>
+      <description>Mock up of Nutrition Labels for Software, called Software Release Facts:</description>
+    </item>
+    
   </channel>
 </rss>
