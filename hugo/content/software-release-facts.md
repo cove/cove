@@ -9,5 +9,5 @@ weight: 11
 
 Mock up of Nutrition Labels for Software, called Software Release Facts:
 
-![](images/software-release-facts-mock-1.svg)
+![](images/software-release-facts-mock-1.png)
 
