@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="2 -1 361 1034" width="361" height="1034">
+  <defs>
+    <font-face font-family="Arial" font-size="23" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="8" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial Narrow" font-size="8" panose-1="2 11 6 6 2 2 2 3 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="524.41406" cap-height="722.168" ascent="935.5469" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialNarrow"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="5" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="10" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="5" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="12" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="9" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="11" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Lucida Grande" font-size="10" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="11" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-11 20:57:21 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-dasharray="none" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <rect x="3" y="4" width="359" height="1028" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Canvas_1: Layer 2">
+      <title>Layer 2</title>
+      <g id="Graphic_8">
+        <text transform="translate(8 4.3363895)" fill="black">
+          <tspan font-family="Arial" font-size="23" font-weight="700" fill="black" x="0" y="21">Software Release Facts</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <line x1="9" y1="29.5" x2="352.66964" y2="29.25" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(9.908203 147.28053)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="0" y="14">New Features</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(13.265181 369.81054)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="0" y="14">Historical Data</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Canvas_1: Layer 3">
+      <title>Layer 3</title>
+      <g id="Graphic_17">
+        <path d="M 33.5 38.884956 L 55.5 38.884956 L 72 59.942704 L 72 88.0197 L 55.5 109.07745 L 33.5 109.07745 L 17 88.0197 L 17 59.942704 Z" fill="#fffe62"/>
+        <path d="M 33.5 38.884956 L 55.5 38.884956 L 72 59.942704 L 72 88.0197 L 55.5 109.07745 L 33.5 109.07745 L 17 88.0197 L 17 59.942704 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 88.5 38.884956 L 110.5 38.884956 L 127 59.942704 L 127 88.0197 L 110.5 109.07745 L 88.5 109.07745 L 72 88.0197 L 72 59.942704 Z" fill="#ffb000"/>
+        <path d="M 88.5 38.884956 L 110.5 38.884956 L 127 59.942704 L 127 88.0197 L 110.5 109.07745 L 88.5 109.07745 L 72 88.0197 L 72 59.942704 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 143.5 38.884956 L 165.5 38.884956 L 182 59.942704 L 182 88.0197 L 165.5 109.07745 L 143.5 109.07745 L 127 88.0197 L 127 59.942704 Z" fill="#fe6100"/>
+        <path d="M 143.5 38.884956 L 165.5 38.884956 L 182 59.942704 L 182 88.0197 L 165.5 109.07745 L 143.5 109.07745 L 127 88.0197 L 127 59.942704 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 198.5 38.884956 L 220.5 38.884956 L 237 59.942704 L 237 88.0197 L 220.5 109.07745 L 198.5 109.07745 L 182 88.0197 L 182 59.942704 Z" fill="#dc257f"/>
+        <path d="M 198.5 38.884956 L 220.5 38.884956 L 237 59.942704 L 237 88.0197 L 220.5 109.07745 L 198.5 109.07745 L 182 88.0197 L 182 59.942704 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <rect x="11.554187" y="415.09107" width="80.54751" height="86" fill="white"/>
+        <rect x="11.554187" y="415.09107" width="80.54751" height="86" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="9" y="135.78053" width="343.66964" height="6.5" fill="black"/>
+        <rect x="9" y="135.78053" width="343.66964" height="6.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="11.554187" y="364.81054" width="343.66964" height="1.9000034" fill="black"/>
+        <rect x="11.554187" y="364.81054" width="343.66964" height="1.9000034" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <rect x="9" y="528.61545" width="343.66964" height="6.5" fill="black"/>
+        <rect x="9" y="528.61545" width="343.66964" height="6.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="10.819369" y1="396.34107" x2="354.489" y2="396.09107" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_63">
+        <text transform="translate(285.26602 506.29757)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Security </tspan>
+          <tspan font-family="Arial Narrow" font-size="8" font-weight="400" fill="black" y="7">Incidencs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <rect x="101.10622" y="415.09107" width="80.54751" height="86" fill="white"/>
+        <rect x="101.10622" y="415.09107" width="80.54751" height="86" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_88">
+        <ellipse cx="171.71259" cy="492.0411" rx="1.50000241920461" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_87">
+        <ellipse cx="150.86415" cy="492.0411" rx="1.50000241920463" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_86">
+        <ellipse cx="130.01571" cy="492.0411" rx="1.50000241920462" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_85">
+        <text transform="translate(166.16102 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2025</tspan>
+        </text>
+      </g>
+      <g id="Graphic_84">
+        <ellipse cx="109.16727" cy="492.0411" rx="1.50000241920462" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_83">
+        <text transform="translate(146.19607 493.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2024</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(124.3368 493.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2023</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <text transform="translate(103.55204 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2022</tspan>
+        </text>
+      </g>
+      <g id="Graphic_98">
+        <rect x="189.70346" y="415.09107" width="80.54751" height="85" fill="white"/>
+        <rect x="189.70346" y="415.09107" width="80.54751" height="85" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_97">
+        <ellipse cx="260.30983" cy="491.0411" rx="1.50000241920459" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_96">
+        <ellipse cx="239.4614" cy="491.0411" rx="1.50000241920461" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_95">
+        <ellipse cx="218.61295" cy="491.0411" rx="1.50000241920461" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_94">
+        <text transform="translate(254.75826 492.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2025</tspan>
+        </text>
+      </g>
+      <g id="Graphic_93">
+        <ellipse cx="197.7645" cy="491.0411" rx="1.50000241920462" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_92">
+        <text transform="translate(234.7933 492.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2024</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <text transform="translate(212.93405 492.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2023</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(192.14928 492.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2022</tspan>
+        </text>
+      </g>
+      <g id="Graphic_116">
+        <rect x="274.79936" y="415.09107" width="80.54751" height="86" fill="white"/>
+        <rect x="274.79936" y="415.09107" width="80.54751" height="86" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_115">
+        <ellipse cx="347.16938" cy="491.9297" rx="1.50000241920459" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_114">
+        <ellipse cx="326.32094" cy="491.9297" rx="1.50000241920461" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_113">
+        <ellipse cx="305.4725" cy="491.9297" rx="1.50000241920458" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_112">
+        <text transform="translate(341.6178 493.4797)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2025</tspan>
+        </text>
+      </g>
+      <g id="Graphic_111">
+        <ellipse cx="284.62406" cy="491.9297" rx="1.50000241920461" ry="0.950003212271541" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_110">
+        <text transform="translate(321.65285 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2024</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <text transform="translate(299.7936 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2023</tspan>
+        </text>
+      </g>
+      <g id="Graphic_108">
+        <text transform="translate(279.00882 493.4797)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2022</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Canvas_1: Layer 5">
+      <title>Layer 5</title>
+      <g id="Graphic_42">
+        <ellipse cx="82.16055" cy="492.0411" rx="1.50000241920461" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_47">
+        <ellipse cx="61.312114" cy="492.0411" rx="1.50000241920463" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_51">
+        <ellipse cx="40.463674" cy="492.0411" rx="1.50000241920463" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(76.60899 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2025</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <ellipse cx="19.615234" cy="492.0411" rx="1.50000241920462" ry="0.950003212271571" fill="#c0c0ff"/>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(56.64403 493.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2024</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <text transform="translate(34.78477 493.70243)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2023</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <text transform="translate(14 493.5911)" fill="black">
+          <tspan font-family="Roboto" font-size="5" font-weight="400" fill="black" x="0" y="5">2022</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <text transform="translate(19.633087 506.29757)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Release</tspan>
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" y="7"> Cadence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <text transform="translate(115.4819 506.29757)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Feature Fixes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <text transform="translate(203.08297 506.29757)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Security Fixes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_118">
+        <rect x="8.265181" y="561.496" width="343.66964" height="1.9000034" fill="black"/>
+        <rect x="8.265181" y="561.496" width="343.66964" height="1.9000034" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_117">
+        <line x1="8.265181" y1="590.0265" x2="351.93482" y2="589.7765" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_119">
+        <text transform="translate(11.22461 566.496)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="0" y="14">Internal Details</tspan>
+        </text>
+      </g>
+      <g id="Graphic_120">
+        <text transform="translate(11.462852 596.5574)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="700" fill="black" x="0" y="9">Licenses</tspan>
+        </text>
+      </g>
+      <g id="Line_122">
+        <line x1="8.265181" y1="640.25" x2="351.93482" y2="640" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_124">
+        <text transform="translate(11.22461 647.7188)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="700" fill="black" x="0" y="9">Main Dependencies</tspan>
+        </text>
+      </g>
+      <g id="Line_123">
+        <line x1="9" y1="688.3738" x2="352.66964" y2="688.1238" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_125">
+        <text transform="translate(11.22461 698.8802)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="700" fill="black" x="0" y="9">Languages</tspan>
+        </text>
+      </g>
+      <g id="Line_127">
+        <line x1="9.652877" y1="814.1016" x2="353.3225" y2="813.8516" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_126">
+        <text transform="translate(11.462852 824.0177)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="700" fill="black" x="0" y="9">Execution Skeleton</tspan>
+        </text>
+      </g>
+      <g id="Graphic_128">
+        <rect x="25.00705" y="852.5305" width="312.87627" height="156.23962" fill="white"/>
+        <rect x="25.00705" y="852.5305" width="312.87627" height="156.23962" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Canvas_1: Layer 4">
+      <title>Layer 4</title>
+      <g id="Graphic_29">
+        <text transform="translate(29.82422 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Release</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(89.49805 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Cyclo</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(133.375 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Dependices</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(193.71484 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Features</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <path d="M 253.5 39.807506 L 275.5 39.807506 L 292 60.865254 L 292 88.94225 L 275.5 110 L 253.5 110 L 237 88.94225 L 237 60.865254 Z" fill="#785ef0"/>
+        <path d="M 253.5 39.807506 L 275.5 39.807506 L 292 60.865254 L 292 88.94225 L 275.5 110 L 253.5 110 L 237 88.94225 L 237 60.865254 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 308.5 39.807506 L 330.5 39.807506 L 347 60.865254 L 347 88.94225 L 330.5 110 L 308.5 110 L 292 88.94225 L 292 60.865254 Z" fill="#648fff"/>
+        <path d="M 308.5 39.807506 L 330.5 39.807506 L 347 60.865254 L 347 88.94225 L 330.5 110 L 308.5 110 L 292 88.94225 L 292 60.865254 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <text transform="translate(249.05078 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Security</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(304.60742 116.87357)" fill="black">
+          <tspan font-family="Arial" font-size="8" font-weight="400" fill="black" x="0" y="7">Platform</tspan>
+        </text>
+      </g>
+      <g id="Graphic_172">
+        <text transform="translate(275.25097 469.5445) rotate(-90)" fill="black">
+          <tspan font-family="Arial" font-size="5" font-weight="400" fill="black" x="0" y="5">Users Impacted</tspan>
+        </text>
+      </g>
+      <g id="Graphic_173">
+        <text transform="translate(190.5482 461.8267) rotate(-90)" fill="black">
+          <tspan font-family="Arial" font-size="5" font-weight="400" fill="black" x="0" y="5">Severity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_174">
+        <text transform="translate(103.55204 459.4671) rotate(-90)" fill="black">
+          <tspan font-family="Arial" font-size="5" font-weight="400" fill="black" x="0" y="5">Count</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Canvas_1: color">
+      <title>color</title>
+      <g id="Line_130">
+        <line x1="8.265181" y1="731.3314" x2="351.93482" y2="731.0814" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_129">
+        <text transform="translate(10.962038 741.8378)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="700" fill="black" x="0" y="9">Authors</tspan>
+        </text>
+      </g>
+      <g id="Graphic_132">
+        <text transform="translate(13.58156 238.84206)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="0" y="14">Critical Notices</tspan>
+        </text>
+      </g>
+      <g id="Graphic_131">
+        <rect x="13.19869" y="233.84206" width="343.66964" height="1.9000034" fill="black"/>
+        <rect x="13.19869" y="233.84206" width="343.66964" height="1.9000034" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Canvas_1: mock data">
+      <title>mock data</title>
+      <g id="Graphic_133">
+        <text transform="translate(24.48873 61.9812)" fill="black">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="3.817383" y="11">2.05b</tspan>
+          <tspan font-family="Roboto" font-size="9" font-weight="400" fill="black" x="0" y="22">1/5/2025</tspan>
+        </text>
+      </g>
+      <g id="Graphic_134">
+        <text transform="translate(78.075195 74.86325)" fill="black">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="0" y="11">+60,263</tspan>
+        </text>
+      </g>
+      <g id="Graphic_138">
+        <path d="M 91.94238 68.409774 L 99.5 51.409774 L 107.05762 68.409774 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_140">
+        <text transform="translate(148.93799 74.9666)" fill="black">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="0" y="11">-2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_139">
+        <path d="M 147.70188 51.70648 L 155.2595 68.70648 L 162.81712 51.70648 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_142">
+        <text transform="translate(202.7295 75.179005)" fill="black">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="0" y="11">+</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" y="11">7</tspan>
+        </text>
+      </g>
+      <g id="Graphic_141">
+        <path d="M 202.32213 68.409774 L 209.87975 51.409774 L 217.43737 68.409774 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_144">
+        <text transform="translate(257.7295 74.86325)" fill="black">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="0" y="11">+</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" y="11">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_143">
+        <path d="M 256.94238 68.409774 L 264.5 51.409774 L 272.05762 68.409774 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_145">
+        <text transform="translate(307.61732 59.863225)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">SaaS</tspan>
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x=".9641113" y="23">AWS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_146">
+        <text transform="translate(28.71561 618.7599)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">Proprietary 32%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_148">
+        <ellipse cx="22.115234" cy="625.1516" rx="4.00000639160759" ry="3.25000519318116" fill="#dc257f"/>
+        <ellipse cx="22.115234" cy="625.1516" rx="4.00000639160759" ry="3.25000519318116" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_149">
+        <text transform="translate(135.59695 618.7599)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">BSD 40%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_151">
+        <ellipse cx="123.79094" cy="625.1516" rx="4.00000639160758" ry="3.25000519318116" fill="#ffb000"/>
+        <ellipse cx="123.79094" cy="625.1516" rx="4.00000639160758" ry="3.25000519318116" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_153">
+        <text transform="translate(208.06173 618.7599)" fill="#222">
+          <tspan font-family="Lucida Grande" font-size="10" font-weight="400" fill="#222" x="0" y="10">UIUC</tspan>
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" y="10"> 28%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_152">
+        <ellipse cx="197.79063" cy="625.1516" rx="4.00000639160755" ry="3.25000519318116" fill="#648fff"/>
+        <ellipse cx="197.79063" cy="625.1516" rx="4.00000639160755" ry="3.25000519318116" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_154">
+        <text transform="translate(12.084717 668.6976)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">libc++ 8.5, OpenSSL 1.0.2r</tspan>
+        </text>
+      </g>
+      <g id="Graphic_156">
+        <text transform="translate(11.462852 716.5288)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">Go 1.13.0, NodeJS 10.15.3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_157">
+        <text transform="translate(10.962038 760.8098)" fill="black">
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="10">Startuply, Inc.</tspan>
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="23">Main Vendors: NodeJS Foundation, OpenSSL Software Foundation, </tspan>
+          <tspan font-family="Roboto" font-size="11" font-weight="400" fill="black" x="0" y="36">Inc. Golang Foundation, Inc., SendGrid, AWS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_159">
+        <path d="M 290.5956 486.6321 L 288.27376 465.41446 C 289.71052 461.03795 291.4807 461.03795 292.91745 465.41446 L 290.5956 486.6321 Z" fill="#fe6100"/>
+        <path d="M 290.5956 486.6321 L 288.27376 465.41446 C 289.71052 461.03795 291.4807 461.03795 292.91745 465.41446 L 290.5956 486.6321 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_171">
+        <path d="M 322.64923 457.59107 L 317.5338 438.0245 C 320.60628 431.35107 324.85076 431.45784 327.88236 438.2848 L 322.64923 457.59107 Z" fill="#fe6100"/>
+        <path d="M 322.64923 457.59107 L 317.5338 438.0245 C 320.60628 431.35107 324.85076 431.45784 327.88236 438.2848 L 322.64923 457.59107 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_175">
+        <path d="M 209.83058 486.6321 L 207.50873 465.41446 C 208.9455 461.03795 210.71566 461.03795 212.15242 465.41446 L 209.83058 486.6321 Z" fill="#fe6100"/>
+        <path d="M 209.83058 486.6321 L 207.50873 465.41446 C 208.9455 461.03795 210.71566 461.03795 212.15242 465.41446 L 209.83058 486.6321 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_176">
+        <path d="M 245.43997 454.03227 L 243.11813 432.81465 C 244.5549 428.43814 246.32505 428.43814 247.76181 432.81465 L 245.43997 454.03227 Z" fill="#fe6100"/>
+        <path d="M 245.43997 454.03227 L 243.11813 432.81465 C 244.5549 428.43814 246.32505 428.43814 247.76181 432.81465 L 245.43997 454.03227 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_177">
+        <path d="M 230.1514 490.2352 L 227.82955 469.0176 C 229.26631 464.6411 231.03648 464.6411 232.47324 469.0176 L 230.1514 490.2352 Z" fill="#fe6100"/>
+        <path d="M 230.1514 490.2352 L 227.82955 469.0176 C 229.26631 464.6411 231.03648 464.6411 232.47324 469.0176 L 230.1514 490.2352 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_178">
+        <path d="M 262.39828 486.6321 L 260.07644 465.41446 C 261.5132 461.03795 263.28336 461.03795 264.72012 465.41446 L 262.39828 486.6321 Z" fill="#fe6100"/>
+        <path d="M 262.39828 486.6321 L 260.07644 465.41446 C 261.5132 461.03795 263.28336 461.03795 264.72012 465.41446 L 262.39828 486.6321 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_180">
+        <line x1="115.5" y1="486.5" x2="115.55204" y2="460.06475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_182">
+        <line x1="124.26906" y1="486.5" x2="124.26906" y2="447.48485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_183">
+        <line x1="130.51571" y1="486.5" x2="130.51571" y2="447.48485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_184">
+        <line x1="138.39513" y1="486.67284" x2="138.39513" y2="463.33055" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_185">
+        <line x1="156.9573" y1="486.5" x2="156.9573" y2="469.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_186">
+        <line x1="169" y1="487.1873" x2="169" y2="460.48485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_193">
+        <ellipse cx="23.73047" cy="477.2879" rx="1.50000241920462" ry="1.24437405436886" fill="#fe6100"/>
+      </g>
+      <g id="Graphic_196">
+        <ellipse cx="35.02371" cy="477.2879" rx="1.50000241920462" ry="1.24437405436886" fill="#fe6100"/>
+      </g>
+      <g id="Graphic_197">
+        <ellipse cx="50.78255" cy="477.2879" rx="1.50000241920462" ry="1.24437405436886" fill="#fe6100"/>
+      </g>
+      <g id="Graphic_198">
+        <ellipse cx="67.24903" cy="477.2879" rx="1.50000241920462" ry="1.24437405436886" fill="#fe6100"/>
+      </g>
+      <g id="Graphic_199">
+        <ellipse cx="84.99545" cy="477.65326" rx="1.50000241920461" ry="1.24437405436889" fill="#fe6100"/>
+      </g>
+      <g id="Line_200">
+        <path d="M 196.2645 878.2 L 204.43125 895.5625 L 196.425 902.8406 L 176.81875 890.8781 L 187.14928 862.4409 L 217.11295 862.4409 L 239.9446 903.7468 L 248.11268 943.5317" stroke="#648fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_201">
+        <path d="M 239.9446 903.7468 L 214.47426 982.871 L 145.04565 983.9462 L 101.10622 934.2 L 101.10622 899" stroke="#648fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_202">
+        <path d="M 145.04565 983.9462 L 72.8745 957.4 L 72.8745 901.1505" stroke="#648fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_204">
+        <path d="M 146.47018 925.4 L 140.56727 903 L 115.5 901.4 L 115.55204 930.2 L 152.36415 973.1935 L 205.18689 969.9677 L 239.9446 903.7468" stroke="#648fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_205">
+        <path d="M 248.11268 943.5317 L 257.7546 979 L 237.9614 978.2 L 237.9614 963" stroke="#e0f0ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_206">
+        <path d="M 285.9519 914.0538 L 299.85366 932.7282 L 324.82094 921.5806 L 306.9725 885.0215 L 217.11295 862.4409" stroke="#e0f0ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_207">
+        <ellipse cx="194.62082" cy="878.1719" rx="4.64369594764883" ry="5.25000838898498" fill="#785ef0"/>
+      </g>
+      <g id="Graphic_208">
+        <text transform="translate(20.109375 172.81054)" fill="black">
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="10">Importing documents in UTF8</tspan>
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="22.359863">Candle light screen mode</tspan>
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="34.719727">Annotation syncing</tspan>
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="47.07959">Low battery mode</tspan>
+        </text>
+      </g>
+      <g id="Graphic_209">
+        <text transform="translate(198.58056 173.87337)" fill="black">
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="10">Support IoT fonts</tspan>
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="22.359863">FIPS Certified</tspan>
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="34.719727">Fracture Integration</tspan>
+        </text>
+      </g>
+      <g id="Graphic_210">
+        <text transform="translate(16.554187 266.03623)" fill="black">
+          <tspan font-family="Arial" font-size="11" font-weight="400" fill="black" x="0" y="10">CVE-12346 Patched for TLS mooncake remote execution</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
