@@ -17,11 +17,11 @@ The constellation is reminiscent of laying out under the expanse of stars on a c
 
 ![](images/constellation-dags-2.png)
 
-At the base of the graph we start with what is near and more known ideas, a feature, product or maybe just a core idea we want to build on.
+At the base of the graph we start with what is near and more known ideas, a feature, product or maybe just a core idea we want to build on to create higher levels of value.
 
 ![](images/constellation-dags-3.png)
 
-Next as we go up in the sky, we build on the base adding point by answering the question *What do we need next?* With allowing for more vagueness as we go up in the sky.
+Next as we go up in the sky, we build on the base adding point by answering the question *What do we need next?* With allowing for more vagueness as we go up in the sky as the value goes up.
 
 ![](images/icarus-1944.jpg)
 
