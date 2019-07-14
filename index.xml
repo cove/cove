@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cove.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,6 +28,19 @@ DAG refers to a directed acyclic graph, which is a graph with arrows connecting 
       
       <guid>https://cove.github.io/software-release-facts/</guid>
       <description>In order to improve the quality of software, the Software Release Facts label exposes quality metrics to end consumers, so they can make informed decisions, and aligns software vendors&amp;rsquo; incentives with making quality software.</description>
+    </item>
+    
+    <item>
+      <title>Problem Classifications</title>
+      <link>https://cove.github.io/problem-classifications/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cove.github.io/problem-classifications/</guid>
+      <description>At the top level, all problems can be reduced to one of two classes of questions:
+ What factors need to come together to create a desired outcome?
+ What factors came together to create an outcome?
+  Where 1 and 2 can be thought of as forward and backward views (and 2 is probably less NP hard).
+It follows then that 1 is not solved if 2 can&amp;rsquo;t be solved, since the solution to 1 will become</description>
     </item>
     
   </channel>
