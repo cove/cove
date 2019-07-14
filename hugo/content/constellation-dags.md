@@ -11,9 +11,9 @@ A constellation DAG can be thought of as way to share the thought process that e
 reasons through before making roadmaps or plans in general.
 
 The key difference between a constellation DAG and simply structuring tasks and ideas onto a graph
-is that the nodes don't need to represent tasks, but can be either 1) a milestone, 2) a vague
-general goal that will become clearer at a later time, or 3) indeed simply a task. This fluid mixing
-of concepts better represents the direct mental model everyone uses already.
+is that the nodes don't need to represent one type of data, but can be a milestone, a vague
+general goal, or simply a task. This fluid mixing of concepts better represents the direct mental
+model everyone uses already.
 
 ![](images/constellation-dags-1.png)
 

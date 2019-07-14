@@ -20,8 +20,8 @@
       <description>A constellation DAG can be thought of as way to share the thought process that everyone already
 reasons through before making roadmaps or plans in general.
 The key difference between a constellation DAG and simply structuring tasks and ideas onto a graph
-is that the nodes don&amp;rsquo;t need to represent tasks, but can be either 1) a milestone, 2) a vague
-general goal that will become clearer at a later time, or 3) indeed simply a task.</description>
+is that the nodes don&amp;rsquo;t need to represent one type of data, but can be a milestone, a vague
+general goal, or simply a task. This fluid mixing of concepts better represents the direct mental</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ general goal that will become clearer at a later time, or 3) indeed simply a tas
  What factors need to come together to create a desired outcome?
  What factors came together to create an outcome?
   Where 1 can be thought as the forward view, and 2 the backward disambiguation (and 2 is probably less NP hard).
-It follows then that 1 is not solved if 2 can&amp;rsquo;t be solved, since the solution to 1 will become</description>
+It follows then that 1 is not solved if 2 can&amp;rsquo;t be solved, since the solution to 1 will become the problem in 2 at a later time.</description>
     </item>
     
   </channel>
