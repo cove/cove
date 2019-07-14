@@ -16,4 +16,4 @@ Where 1 can be thought as the forward view, and 2 the backward disambiguation (a
 
 It follows then that 1 is not solved if 2 can't be solved, since the solution to 1 will become the problem in 2 at a later time.
 
-Which further follows that the true solution is the continuous and unbroken _understanding_ of the constituents, and the apparent forward solution is just a byproduct of understanding. 
+Which further follows that the true solution is the continuous and unbroken _understanding_ of the constituents, and the apparent forward solution is just a byproduct of understanding and just an inital point of recognition. 
