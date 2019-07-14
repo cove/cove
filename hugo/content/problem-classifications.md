@@ -18,4 +18,4 @@ It follows then that 1 is not solved if 2 can't be solved, since the solution to
 the problem in 2 at a later time.
 
 Which further follows that the true solution is the _understanding_ of the constituents, and 
-the apparent forward solution is really the by product of understanding.
+the apparent forward solution is really the byproduct of understanding.
