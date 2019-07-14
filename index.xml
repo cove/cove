@@ -17,8 +17,11 @@
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cove.github.io/constellation-dags/</guid>
-      <description>A constellation DAG can be thought of as way to share the thought process that everyone already reasons through before making roadmaps or plans in general.
-DAG refers to a directed acyclic graph, which is a graph with arrows connecting points on it to indicate direction, and if you follow the arrows you won’t end up going in a circle. In other words, at every point you don&amp;rsquo;t need to think about more than the next step.</description>
+      <description>A constellation DAG can be thought of as way to share the thought process that everyone already
+reasons through before making roadmaps or plans in general.
+The key difference between a constellation DAG and simply structuring tasks and ideas onto a graph
+is that the nodes don&amp;rsquo;t need to represent tasks, but can be either 1) a milestone, 2) a vague
+general goal that will become clearer at a later time, or 3) indeed simply a task.</description>
     </item>
     
     <item>
